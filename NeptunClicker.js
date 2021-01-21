@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Neptun Clicker
-// @namespace    https://github.com/imdonix/canvas-antidetect
+// @namespace    https://github.com/Brokkoli11/ElteNeptunClicker
 // @version      1.0
 // @downloadURL  https://github.com/imdonix/canvas-antidetect/raw/master/ad.user.js
 // @description  Click "Hallgatói web" on elte neptun site.
