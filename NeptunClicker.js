@@ -2,7 +2,7 @@
 // @name         Neptun Clicker
 // @namespace    https://github.com/Brokkoli11/ElteNeptunClicker
 // @version      1.0
-// @downloadURL  https://github.com/imdonix/canvas-antidetect/raw/master/ad.user.js
+// @downloadURL  https://raw.githubusercontent.com/Brokkoli11/ElteNeptunClicker/main/NeptunClicker.js
 // @description  Click "Hallgatói web" on elte neptun site.
 // @author       Brokkoli11
 // @include      https://neptun.elte.hu/*
